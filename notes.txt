@@ -1,0 +1,8 @@
+make Factory interface getObject(String description) --
+add few more smtp
+change desirialize return type --
+delete unwanted souts. --
+exception handle
+sending birthday check for instance --
+remove underscores from classes --
+finish comments --
